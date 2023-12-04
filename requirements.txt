@@ -1,0 +1,2 @@
+pytonapi==0.1.5
+tonsdk==1.0.13
